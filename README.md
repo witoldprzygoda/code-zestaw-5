@@ -1,3 +1,3 @@
-# imię i nazwisko (tak, TWOJE imię i nazwisko) tutaj wpisać
+# Imię i nazwisko:
 
 # Zestaw 5
